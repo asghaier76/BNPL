@@ -1,4 +1,4 @@
-# ERC-XXXX BNPL Reference Implementation
+# ERC-8214 BNPL Reference Implementation
 
 Reference implementation of the Buy Now Pay Later Standard.
 
