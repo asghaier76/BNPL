@@ -1,6 +1,6 @@
 # ERC-8214 BNPL Reference Implementation
 
-Reference implementation of the Buy Now Pay Later Standard.
+Reference implementation of the Buy Now Pay Later Standard. (draft submitted PR https://github.com/ethereum/ERCs/pull/1643)
 
 ## Structure
 
